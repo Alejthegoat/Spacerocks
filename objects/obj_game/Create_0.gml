@@ -1,2 +1,2 @@
-score = 990;
-lives = 1;
+score = 0;
+lives = 3;
